@@ -10,7 +10,6 @@ Source0:        desktop-icons-ng-%{version}.tar.xz
 BuildRequires:  meson
 BuildRequires:  ninja
 BuildRequires:  fdupes
-BuildRequires:  gnome-shell
 BuildArch:      noarch
 
 %description
