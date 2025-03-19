@@ -8,7 +8,7 @@ Source0:        desktop-icons-ng-%{version}.tar.xz
 
 # Meson and Ninja BuildRequires
 BuildRequires:  meson
-BuildRequires:  ninja
+BuildRequires:  (ninja or ninja-build)
 BuildRequires:  fdupes
 BuildArch:      noarch
 
